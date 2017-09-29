@@ -1,0 +1,2 @@
+# NewAndorid
+everythind about android.
